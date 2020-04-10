@@ -1,0 +1,1 @@
+void merge(MyRecord a1[],MyRecord a2[],MyRecord final[], int field, int stop1, int numOfrecords);
